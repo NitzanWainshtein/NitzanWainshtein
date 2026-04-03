@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Nitzan Wainshtein 👋
 
-<!--
-**NitzanWainshtein/NitzanWainshtein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+* 🎓 3rd-year Computer Science student at Ariel University.
+* 🔭 Currently focusing on my Final Project in Computer Vision.
+* 🌱 Actively seeking a Student Developer / Backend Internship position.
+* ⚡ Fun fact: I have a strong background in managing critical communication systems and IT infrastructure from my service as a C4I Officer.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+* **Languages:** Python 🐍, Java ☕, C/C++ ⚙️, SQL 📊
+* **Cloud & DevOps:** Amazon Web Services (AWS) ☁️, Git 📂
+* **Concepts:** Object-Oriented Programming (OOP), Algorithms, Data Structures, Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project
+**[Real-time Object Detection with YOLOv8n]**
+*Developed a high-performance computer vision system for real-time object identification.*
+
+### 📫 Connect with me
+* [LinkedIn](https://www.linkedin.com/in/nitzan-wainshtein/) * 📧 Email: [Nitzanwa@gmail.com]
