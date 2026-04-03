@@ -16,4 +16,4 @@
 *Developed a high-performance computer vision system for real-time object identification.*
 
 ### 📫 Connect with me
-* [LinkedIn](https://www.linkedin.com/in/nitzan-wainshtein/) * 📧 Email: [Nitzanwa@gmail.com]
+* [LinkedIn](https://www.linkedin.com/in/nitzwa/) * 📧 Email: [Nitzanwa@gmail.com]
