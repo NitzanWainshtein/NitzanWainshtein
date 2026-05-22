@@ -1,54 +1,26 @@
 # Hi, I'm Nitzan Wainshtein 👋
 
-**3rd-year CS student @ Ariel University** · Backend Development · Systems Programming · Cloud
+### Computer Science Student | Full-Stack Development | Computer Vision
 
-I build things that actually run — threaded servers, cloud-secured APIs, network tools from scratch. Currently looking for a **Student Developer / Backend Internship**.
+I'm a 3rd-year Computer Science student at Ariel University, currently focusing on full-stack development and computer vision.
+
+I enjoy building practical software projects, designing clean user experiences, working with backend logic, and solving real-world technical problems.
+
+I am actively looking for a Student Developer / Full-Stack Internship position.
+
+My background as a C4I Officer gave me experience with critical communication systems, IT infrastructure, teamwork, leadership, and working under pressure.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:** Python, Java, C, C++, SQL  
-**Cloud & DevOps:** AWS (Lambda, API Gateway, Cognito, DynamoDB, SNS, WAF, S3), CloudFormation  
-**Backend & Tools:** REST APIs, Linux, Git, Docker, Sockets, Multithreading  
-**Concepts:** OOP, Design Patterns, OS, Data Structures & Algorithms, Computer Vision  
-
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend & Tools:** Git, REST APIs, Linux, AWS  
+**Core Concepts:** OOP, Data Structures, Algorithms, Operating Systems, Computer Vision  
 ---
 
-## 📂 Projects
+## 📫 Connect with Me
 
-**[OS Final Project – Concurrent Graph Server]()**  
-Multi-threaded TCP server in C++ handling graph algorithm requests (Euler, MST, Hamilton, SCC, Max Clique).  
-Implemented four concurrency architectures: Thread-per-Client, Thread Pool, **Leader-Follower**, and **Active Object + Pipeline**.  
-Applied **Factory** and **Strategy** design patterns. Analyzed with Valgrind and gcov.  
-`C++` `Sockets` `Pthreads` `Design Patterns` `Valgrind`
-
-**[Secure REST API on AWS]()**  
-Built and secured a serverless REST API from scratch on AWS.  
-Integrated **Cognito** user pool with OAuth2 / Resource Server, **API Gateway Authorizer**, WAF IP rules, and SNS notifications.  
-Achieved 25/25 on all security tasks.  
-`AWS` `Lambda` `Cognito` `API Gateway` `WAF` `SNS`
-
-**[Network Tools – Ping & Traceroute]()**  
-Implemented ping and traceroute from scratch in C using raw sockets and ICMP.  
-Built a shared ChecksumHandler and RTT measurement module.  
-`C` `Raw Sockets` `ICMP` `Makefile`
-
-**[Seam Carving – Computer Vision]()**  
-Content-aware image resizing using dynamic programming.  
-Implemented Greedy and DP seam selection with gradient magnitude energy maps.  
-`Python` `NumPy` `Computer Vision` `DP`
-
----
-
-## 🎖️ Background
-
-Before CS, I served as a **C4I Officer** — managing critical communication infrastructure, leading technical teams under pressure, and maintaining IT systems in operational environments.  
-That experience shaped how I approach reliability, documentation, and working in high-stakes conditions.
-
----
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nitzwa-blue?logo=linkedin)](https://www.linkedin.com/in/nitzwa/)
-[![Email](https://img.shields.io/badge/Email-Nitzanwa@gmail.com-red?logo=gmail)](mailto:Nitzanwa@gmail.com)
+- LinkedIn: [linkedin.com/in/nitzwa](https://www.linkedin.com/in/nitzwa/)
+- Email: [Nitzanwa@gmail.com](mailto:Nitzanwa@gmail.com)
