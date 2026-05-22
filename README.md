@@ -1,19 +1,25 @@
-# Hi there, I'm Nitzan Wainshtein 👋
+# Hi, I'm Nitzan Wainshtein 👋
 
-### 👨‍💻 About Me
-* 🎓 3rd-year Computer Science student at Ariel University.
-* 🔭 Currently focusing on my Final Project in Computer Vision.
-* 🌱 Actively seeking a Student Developer / Backend Internship position.
-* ⚡ Fun fact: I have a strong background in managing critical communication systems and IT infrastructure from my service as a C4I Officer.
+### Computer Science Student | Backend Development | Computer Vision
 
-### 🛠️ Tech Stack
-* **Languages:** Python 🐍, Java ☕, C/C++ ⚙️, SQL 📊
-* **Cloud & DevOps:** Amazon Web Services (AWS) ☁️, Git 📂
-* **Concepts:** Object-Oriented Programming (OOP), Algorithms, Data Structures, Computer Vision
+I'm a 3rd-year Computer Science student at Ariel University, currently focusing on backend development and computer vision.
 
-### 🚀 Featured Project
-**[Real-time Object Detection with YOLOv8n]**
-*Developed a high-performance computer vision system for real-time object identification.*
+I enjoy building practical software projects, solving problems, and learning new technologies.  
+I am actively looking for a Student Developer / Backend Internship position.
 
-### 📫 Connect with me
-* [LinkedIn](https://www.linkedin.com/in/nitzwa/) * 📧 Email: [Nitzanwa@gmail.com]
+My background as a C4I Officer gave me experience with critical communication systems, IT infrastructure, teamwork, and working under pressure.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, Java, C, C++, SQL  
+**Backend & Tools:** Git, REST APIs, Linux, AWS  
+**Core Concepts:** OOP, Data Structures, Algorithms, Operating Systems, Computer Vision  
+
+---
+-
+## 📫 Connect with Me
+
+- LinkedIn: [linkedin.com/in/nitzwa](https://www.linkedin.com/in/nitzwa/)
+- Email: [Nitzanwa@gmail.com](mailto:Nitzanwa@gmail.com)
