@@ -10,7 +10,7 @@ I am actively looking for a Student Developer / Full-Stack Internship position.
 
 My background as a C4I Officer gave me experience with critical communication systems, IT infrastructure, teamwork, leadership, and working under pressure.
 
-**---**
+---
 
 ## 🛠️ Tech Stack
 
@@ -18,13 +18,16 @@ My background as a C4I Officer gave me experience with critical communication sy
 **Frontend:** HTML, CSS, JavaScript, React  
 **Backend & Tools:** Git, REST APIs, Linux, AWS  
 **Core Concepts:** OOP, Data Structures, Algorithms, Operating Systems, Computer Vision  
-**---**
+
+---
 
 ## 📫 Connect with Me
 
-- LinkedIn: [linkedin.com/in/nitzwa](https://www.linkedin.com/in/nitzwa/)
-- Email: [Nitzanwa@gmail.com](mailto:Nitzanwa@gmail.com)
-**---**
+- **LinkedIn:** [linkedin.com/in/nitzwa](https://www.linkedin.com/in/nitzwa/)
+- **Email:** [Nitzanwa@gmail.com](mailto:Nitzanwa@gmail.com)
+
+---
+
 ## 🏆 Certifications
 
 <p align="left">
