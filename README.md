@@ -10,7 +10,7 @@ I am actively looking for a Student Developer / Full-Stack Internship position.
 
 My background as a C4I Officer gave me experience with critical communication systems, IT infrastructure, teamwork, leadership, and working under pressure.
 
----
+**---**
 
 ## 🛠️ Tech Stack
 
@@ -18,9 +18,22 @@ My background as a C4I Officer gave me experience with critical communication sy
 **Frontend:** HTML, CSS, JavaScript, React  
 **Backend & Tools:** Git, REST APIs, Linux, AWS  
 **Core Concepts:** OOP, Data Structures, Algorithms, Operating Systems, Computer Vision  
----
+**---**
 
 ## 📫 Connect with Me
 
 - LinkedIn: [linkedin.com/in/nitzwa](https://www.linkedin.com/in/nitzwa/)
 - Email: [Nitzanwa@gmail.com](mailto:Nitzanwa@gmail.com)
+**---**
+## 🏆 Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/bf525c52-8534-444e-b8bb-c753f1512294/public_url">
+    <img src="https://images.credly.com/size/340x340/images/684f1c89-3d84-4ae1-8c74-6b9d3c7a5b16/blob.png" width="140" alt="AWS Academy Graduate - Cloud Developing">
+  </a>
+</p>
+
+### AWS Academy Graduate - Cloud Developing
+Issued by Amazon Web Services Training and Certification
+
+🔗 [View Credential](https://www.credly.com/badges/bf525c52-8534-444e-b8bb-c753f1512294/public_url)
