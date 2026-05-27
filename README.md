@@ -29,7 +29,7 @@ My background as a C4I Officer gave me experience with critical communication sy
 
 <p align="left">
   <a href="https://www.credly.com/badges/bf525c52-8534-444e-b8bb-c753f1512294/public_url">
-    <img src="[https://images.credly.com/size/340x340/images/684f1c89-3d84-4ae1-8c74-6b9d3c7a5b16/blob.png](https://images.credly.com/size/220x220/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob)" width="140" alt="AWS Academy Graduate - Cloud Developing">
+    <img src="https://images.credly.com/size/220x220/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob" width="140" alt="AWS Academy Graduate - Cloud Developing">
   </a>
 </p>
 
