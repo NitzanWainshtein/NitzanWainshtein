@@ -34,19 +34,11 @@ Computer Vision · Machine Learning · Microservices · Async Programming · Lin
 
 ## 🏆 Certifications
 
-**AWS Academy Graduate — Cloud Developing**
-Amazon Web Services Training and Certification
+**AWS Academy Graduate — Cloud Developing**  
+Amazon Web Services Training and Certification  
 🔗 [View Credential](https://www.credly.com/badges/bf525c52-8534-444e-b8bb-c753f1512294/public_url)
 
-<p align="left">
-
-  <a href="https://www.credly.com/badges/bf525c52-8534-444e-b8bb-c753f1512294/public_url">
-
-    <img src="https://images.credly.com/size/220x220/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob" width="140" alt="AWS Academy Graduate - Cloud Developing">
-
-  </a>
-
-</p>
+[![AWS Academy Graduate](https://images.credly.com/size/220x220/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob)](https://www.credly.com/badges/bf525c52-8534-444e-b8bb-c753f1512294/public_url)
 ---
 
 ## 🚀 Projects
