@@ -36,7 +36,8 @@ Computer Vision · Machine Learning · Microservices · Async Programming · Lin
 
 | | |
 |---|---|
-| [![AWS Academy Graduate](https://images.credly.com/size/220x220/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob)](https://www.credly.com/badges/bf525c52-8534-444e-b8bb-c753f1512294/public_url) | [![NVIDIA DLI](https://images.credly.com/size/220x220/images/bc08d65b-f0e7-41e9-82d0-18ca91b5dd4e/blob)](https://learn.nvidia.com/certificates?id=fwjQXJoaS6SpWYV7PplL1Q) |
+| [![AWS Academy Graduate](https://images.credly.com/size/220x220/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob)](https://www.credly.com/badges/bf525c52-8534-444e-b8bb-c753f1512294/public_url) | <img width="407" height="144" alt="deep-learning-education-deep-learning-institute-logo-407-udt" src="https://github.com/user-attachments/assets/089598bb-a38b-4a0e-ae82-218d812f36c8" />
+) |
 | **AWS Academy Graduate — Cloud Developing** | **NVIDIA — Getting Started with Deep Learning** |
 | Amazon Web Services · [View Credential](https://www.credly.com/badges/bf525c52-8534-444e-b8bb-c753f1512294/public_url) | NVIDIA Deep Learning Institute · [View Certificate](https://learn.nvidia.com/certificates?id=fwjQXJoaS6SpWYV7PplL1Q) |
 ---
